@@ -1,7 +1,7 @@
 ## Hangouts OnAir (static player)
 
 ### About
-Allows you to embed the YouTube Live player for Hangouts on Air with a static URL. You don'T have to embed the code everytime you start a HOA. This script will handle that for you.
+Allows you to embed the YouTube Live player for Hangouts on Air with a static URL. You don't have to embed the code every time you start a HOA. This script will handle that for you.
 
 ### Usage
 
